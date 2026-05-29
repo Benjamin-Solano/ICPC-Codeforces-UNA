@@ -17,6 +17,5 @@ int main() {
         cout << diff << "\n";
     }
 
-
     return 0;
 }
